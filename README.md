@@ -12,3 +12,8 @@
 * 최소 힙
 
 import heapq
+
+### DFS
+재귀
+### BFS
+재귀X, 큐
