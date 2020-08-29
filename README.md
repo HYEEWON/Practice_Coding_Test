@@ -7,8 +7,7 @@
 
   이분탐색, lower_bound사용
 ## 개념 정리
-### DFS
-재귀
+### DFS, BFS(https://github.com/HYEEWON/practice_for_coding_test_hyewon/blob/master/algorithm_python3/DFS_BFS.ipynb)
 ### BFS
 재귀X, 큐
 ### 트리
